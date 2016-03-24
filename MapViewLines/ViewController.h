@@ -2,8 +2,8 @@
 //  ViewController.h
 //  MapViewLines
 //
-//  Created by Jay Versluis on 30/03/2014.
-//  Copyright (c) 2014 Pinkstone Pictures LLC. All rights reserved.
+//  Created by EL ALAMI Yahya on 20/03/2016.
+//  Copyright (c) 2016 EL ALAMI Yahya. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
